@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Prasit
 
+**Cloud & DevOps Architect | Data Engineer | 10x AWS Certified | Azure Solutions Architect Expert**
+
+20+ years in software engineering, cloud architecture, and data engineering.
+I teach System Design at a university and build production-grade cloud infrastructure.
+
+## Certifications
+
+![AWS](https://img.shields.io/badge/AWS-10x_Certified-FF9900?style=flat&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-Solutions_Architect_Expert-0078D4?style=flat&logo=microsoftazure)
+
+## What I Build
+
+- Cloud infrastructure (AWS, Azure, multi-cloud) with Terraform & Kubernetes
+- Data pipelines, ETL, and streaming systems
+- Serverless applications and CI/CD automation
+- System design and architecture consulting
+
+## Tech Stack
+
+**Cloud:** AWS, Azure, GCP | **IaC:** Terraform, CloudFormation, SAM
+**Containers:** Kubernetes, Docker, Helm | **Languages:** Python, Node.js, Bash
+**Data:** Kafka, Elasticsearch, Hadoop, PostgreSQL, DynamoDB, Redis
+**CI/CD:** CodePipeline, GitLab CI, GitHub Actions, Bitbucket Pipelines
 <!--
-**prasitstk/prasitstk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Featured Projects
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Currently building portfolio projects in cloud architecture, data engineering, and serverless — check back soon.
 -->
