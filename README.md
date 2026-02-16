@@ -27,4 +27,9 @@ I teach System Design at a university and build production-grade cloud infrastru
 ## Featured Projects
 
 Currently building portfolio projects in cloud architecture, data engineering, and serverless — check back soon.
+
+## Cloud Lab Collections
+
+Hands-on labs exploring AWS compute, serverless, networking, and security patterns
+with original Terraform automation, CI/CD pipelines, and comparison analyses.
 -->
